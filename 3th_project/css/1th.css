@@ -1,0 +1,15 @@
+#li-1:hover{
+    color: gray;
+    border-bottom: 1px solid gray;
+    transition: 1s;
+}
+#read:hover{
+    cursor: pointer;
+}
+#btnmaz:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
+#bordermaz{
+    border-bottom: 1px solid gray;
+}
